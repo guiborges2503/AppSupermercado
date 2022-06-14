@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h3/MwqH1M789/jZovpmB1jxJyHtcUrYvyzYXrduIrMDhRMlICZ0TgP5Mm5/Ni0tMuvMojFd1dh6lDgDw87rQ8w==",
+  "dgSpecHash": "gvtWb/pKY3YX5K9RVr2hCKVw3E+Pwts34KqNBIK+IEuDcIbL3hdrZPRCcPXTuwhDUEE65zH3O/EwwVPNsG6/Xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

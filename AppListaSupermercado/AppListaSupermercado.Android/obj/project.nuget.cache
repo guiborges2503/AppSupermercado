@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JKOsKY4DlNDoYPgsLsiWQCjQqPZu6wDrUNnt+sLyNXLz/dIlCNlAq/qbjO9G6VtnADSxgsJQ887h3pstEpJtsQ==",
+  "dgSpecHash": "sIcmMX30eww7s10+6t2tw7LL71dylP6c10mjPRwVLOhbUjCVqEszjO9p1v3jFRaA8lCjXS+Ah9H2mF2696Enbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado.Android\\AppListaSupermercado.Android.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado.Android\\AppListaSupermercado.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",

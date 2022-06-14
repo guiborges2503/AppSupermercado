@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\bin\Debug\netstandard2.0\AppListaSupermercado.deps.json
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\bin\Debug\netstandard2.0\AppListaSupermercado.dll
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\bin\Debug\netstandard2.0\ref\AppListaSupermercado.dll
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\bin\Debug\netstandard2.0\AppListaSupermercado.pdb
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\View\AbrirProduto.xaml.g.cs
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\View\FormularioCadastro.xaml.g.cs
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\View\ListaProdutos.xaml.g.cs
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.dll
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\ref\AppListaSupermercado.dll
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.pdb

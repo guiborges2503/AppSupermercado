@@ -1,0 +1,1 @@
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado.UWP\AppListaSupermercado.UWP.csproj;x64

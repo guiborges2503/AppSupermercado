@@ -5,7 +5,12 @@
       "ProjectGuid": "fb938268-fa9c-4ab8-bd10-e06f413d43cd",
       "DisplayName": "AppListaSupermercado.UWP",
       "ColorIndex": 0
+    },
+    "a9adc1e3-1223-4336-a28b-72c452fa9cb4": {
+      "ProjectGuid": "a9adc1e3-1223-4336-a28b-72c452fa9cb4",
+      "DisplayName": "AppListaSupermercado",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

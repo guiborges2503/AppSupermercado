@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj",
         "projectName": "AppListaSupermercado",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

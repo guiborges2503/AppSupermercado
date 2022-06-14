@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado.iOS\\AppListaSupermercado.iOS.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado.iOS\\AppListaSupermercado.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado.iOS\\AppListaSupermercado.iOS.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado.iOS\\AppListaSupermercado.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado.iOS\\AppListaSupermercado.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado.iOS\\AppListaSupermercado.iOS.csproj",
         "projectName": "AppListaSupermercado.iOS",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado.iOS\\AppListaSupermercado.iOS.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado.iOS\\AppListaSupermercado.iOS.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado.iOS\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj"
+              "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj",
         "projectName": "AppListaSupermercado",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\AppListaSupermercado.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

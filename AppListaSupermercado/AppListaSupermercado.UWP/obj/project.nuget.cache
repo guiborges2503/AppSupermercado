@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dvfaC/u7P49Lu3xGC6R/2Asl7ywRMft6fiyqDXUPwPnsCEjCrB5V0FLvC6ANE4e8O+TF1N9YJtp1mUoT7PUE9Q==",
+  "dgSpecHash": "x+KB4KFHBX6o8QRN9HWLFTYsqWF/QGUHdFyWQZFYcTQBrV8yxcP99n1CUhcOn4/S7qDTQ1/aVU0pl/W9QKNBpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\AppListaSupermercado-master\\AppListaSupermercado\\AppListaSupermercado.UWP\\AppListaSupermercado.UWP.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\AppSupermercado\\AppListaSupermercado\\AppListaSupermercado.UWP\\AppListaSupermercado.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",
