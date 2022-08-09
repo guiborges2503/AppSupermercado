@@ -10,9 +10,9 @@
                        Padding="0, 25, 0, 20"
                        HorizontalOptions="CenterAndExpand" />
 
-            <Entry x:Name="txt_Descricao" Placeholder="Nome do Produto" BackgroundColor="Cyan" />
-            <Entry x:Name="txt_Quantidade" Placeholder="Quantidade" Keyboard="Numeric" BackgroundColor="Cyan"  />
-            <Entry x:Name="txt_ValorEstimado" Placeholder="Valor Estimado" Keyboard="Numeric" BackgroundColor="Cyan" />
+            <Entry x:Name="txt_Descricao" Placeholder="Nome do Produto" BackgroundColor="LightGray" />
+            <Entry x:Name="txt_Quantidade" Placeholder="Quantidade" Keyboard="Numeric" BackgroundColor="LightGray"  />
+            <Entry x:Name="txt_ValorEstimado" Placeholder="Valor Estimado" Keyboard="Numeric" BackgroundColor="LightGray" />
 
             <Button x:Name="Btn_AddProduto" Clicked="Btn_AddProduto_Clicked" Text="Adicionar" BackgroundColor="LightGray" />
 

@@ -1,6 +1,5 @@
 C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\bin\Debug\netstandard2.0\AppListaSupermercado.deps.json
 C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\bin\Debug\netstandard2.0\AppListaSupermercado.dll
-C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\bin\Debug\netstandard2.0\ref\AppListaSupermercado.dll
 C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\bin\Debug\netstandard2.0\AppListaSupermercado.pdb
 C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.csproj.AssemblyReference.cache
 C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.GeneratedMSBuildEditorConfig.editorconfig
@@ -15,3 +14,4 @@ C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermerca
 C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.dll
 C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\ref\AppListaSupermercado.dll
 C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\AppListaSupermercado.pdb
+C:\Users\Usuario\Desktop\AppSupermercado\AppListaSupermercado\AppListaSupermercado\obj\Debug\netstandard2.0\refint\AppListaSupermercado.dll
